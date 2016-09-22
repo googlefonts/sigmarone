@@ -1,6 +1,6 @@
 {
 .appVersion = "919";
-copyright = "Copyright 2016 The Sigmar One Project Authors (vern@newtypography.co.uk)";
+copyright = "Copyright 2011 The Sigmar One Project Authors (vern@newtypography.co.uk)";
 customParameters = (
 {
 name = license;
@@ -17,9 +17,13 @@ value = 0;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = vendorID;
+value = NeWT;
 }
 );
-date = "2016-07-07 20:36:33 +0000";
+date = "2011-05-02 20:36:33 +0000";
 designer = "Vernon Adams";
 designerURL = "http://www.newtypography.co.uk/";
 familyName = "Sigmar One";
@@ -81276,6 +81280,6 @@ UUID0 = {
 manufacturer = "Vernon Adams";
 manufacturerURL = "http://www.newtypography.co.uk/";
 unitsPerEm = 1000;
-versionMajor = 1;
-versionMinor = 1;
+versionMajor = 2;
+versionMinor = 0;
 }
