@@ -92,6 +92,40 @@ alignmentZones = (
 );
 ascender = 676;
 capHeight = 676;
+customParameters = (
+{
+name = typoAscender;
+value = 1000;
+},
+{
+name = typoDescender;
+value = -324;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1253;
+},
+{
+name = winDescent;
+value = 411;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -324;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
 descender = -324;
 guideLines = (
 {
@@ -9162,7 +9196,7 @@ unicode = 1ED8;
 },
 {
 glyphname = Ocircumflexgrave;
-lastChange = "2016-07-08 07:51:01 +0000";
+lastChange = "2016-09-22 13:25:11 +0000";
 layers = (
 {
 components = (
@@ -17255,7 +17289,7 @@ unicode = 1EAB;
 },
 {
 glyphname = adblgrave;
-lastChange = "2016-07-08 07:51:01 +0000";
+lastChange = "2016-09-22 13:23:02 +0000";
 layers = (
 {
 components = (
