@@ -81897,16 +81897,6 @@ width = 640;
 );
 },
 {
-glyphname = NULL;
-lastChange = "2016-07-08 08:29:52 +0000";
-layers = (
-{
-layerId = UUID0;
-width = 0;
-}
-);
-},
-{
 glyphname = IJacute;
 lastChange = "2016-07-08 08:29:52 +0000";
 layers = (
@@ -81957,6 +81947,17 @@ width = 643;
 );
 leftMetricsKey = i;
 widthMetricsKey = ij;
+},
+{
+glyphname = NULL;
+lastChange = "2016-10-03 18:17:15 +0000";
+layers = (
+{
+layerId = UUID0;
+width = 0;
+}
+);
+unicode = 0000;
 }
 );
 instances = (
