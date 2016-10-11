@@ -1,6 +1,6 @@
 {
-.appVersion = "924";
-copyright = "Copyright 2011 The Sigmar One Project Authors (vern@newtypography.co.uk)";
+.appVersion = "926";
+copyright = "Copyright 2011 The Sigmar One Project Authors (contact@sansoxygen.com)";
 customParameters = (
 {
 name = licenseURL;
@@ -26,7 +26,7 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 );
 date = "2011-05-02 20:36:33 +0000";
 designer = "Vernon Adams";
-designerURL = "http://www.newtypography.co.uk/";
+designerURL = "http://www.sansoxygen.com";
 familyName = "Sigmar One";
 featurePrefixes = (
 {
@@ -81980,7 +81980,7 @@ UUID0 = {
 };
 };
 manufacturer = "Vernon Adams";
-manufacturerURL = "http://www.newtypography.co.uk/";
+manufacturerURL = "http://www.sansoxygen.com";
 unitsPerEm = 1000;
 versionMajor = 2;
 versionMinor = 0;
