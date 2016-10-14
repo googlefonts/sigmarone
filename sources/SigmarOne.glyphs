@@ -17,7 +17,7 @@ value = (
 },
 {
 name = "Use Typo Metrics";
-value = 1;
+value = 0;
 },
 {
 name = license;
