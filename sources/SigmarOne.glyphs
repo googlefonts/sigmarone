@@ -95,6 +95,14 @@ ascender = 925;
 capHeight = 676;
 customParameters = (
 {
+name = hheaAscender;
+value = 1172;
+},
+{
+name = hheaDescender;
+value = -466;
+},
+{
 name = typoAscender;
 value = 1172;
 },
@@ -107,28 +115,20 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 1172;
-},
-{
-name = winDescent;
-value = 466;
-},
-{
-name = hheaAscender;
-value = 1172;
-},
-{
-name = hheaDescender;
-value = -466;
-},
-{
 name = underlinePosition;
 value = -100;
 },
 {
 name = underlineThickness;
 value = 50;
+},
+{
+name = winAscent;
+value = 1182;
+},
+{
+name = winDescent;
+value = 466;
 },
 {
 name = hheaLineGap;
