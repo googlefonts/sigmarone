@@ -16973,7 +16973,7 @@ unicode = 0067;
 },
 {
 glyphname = gbreve;
-lastChange = "2017-08-11 16:48:41 +0000";
+lastChange = "2017-08-23 15:56:25 +0000";
 layers = (
 {
 components = (
@@ -16981,8 +16981,8 @@ components = (
 name = g;
 },
 {
-name = uni0311;
-transform = "{0.7002, 0, 0, -0.7002, 589, 1302}";
+name = uni0306.loclVIT;
+transform = "{1, 0, 0, 1, 715, 37}";
 }
 );
 layerId = "CBDECE4A-293B-4E5C-B714-A3FD26C7130D";
