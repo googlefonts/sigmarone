@@ -1,6 +1,6 @@
 {
-.appVersion = "926";
-copyright = "Copyright 2011 The Sigmar One Project Authors (contact@sansoxygen.com)";
+.appVersion = "1122";
+copyright = "Copyright 2011 The Sigmar One Project Authors (https://github.com/googlefonts/sigmarone)";
 customParameters = (
 {
 name = licenseURL;
@@ -81911,7 +81911,7 @@ width = 800;
 },
 {
 glyphname = IJacute;
-lastChange = "2016-10-15 12:39:21 +0000";
+lastChange = "2018-03-16 11:24:59 +0000";
 layers = (
 {
 components = (
@@ -81930,7 +81930,7 @@ transform = "{1, 0, 0, 1, 326, 98}";
 }
 );
 layerId = UUID0;
-width = 953;
+width = 951;
 }
 );
 },
@@ -81995,6 +81995,6 @@ UUID0 = {
 manufacturer = "Vernon Adams";
 manufacturerURL = "http://www.sansoxygen.com";
 unitsPerEm = 1000;
-versionMajor = 2;
+versionMajor = 3;
 versionMinor = 0;
 }
