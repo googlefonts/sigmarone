@@ -49,7 +49,7 @@ value = 1;
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https//scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
@@ -104441,13 +104441,13 @@ hyphen = -25;
 "@MMK_R_u" = -30;
 "@MMK_R_v" = -60;
 "@MMK_R_w" = -20;
+H = 55;
 asterisk = -60;
 dagger = -50;
 degree = -80;
 hyphen = -45;
 ordmasculine = -40;
 question = -30;
-H = 55;
 };
 "@MMK_L_O" = {
 "@MMK_R_A" = -25;
@@ -104560,11 +104560,11 @@ hyphen = -55;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -25;
+"@MMK_R_AE" = -25;
 "@MMK_R_J" = -20;
 "@MMK_R_O" = -10;
 "@MMK_R_U" = -5;
 "@MMK_R_o" = -10;
-"@MMK_R_AE" = -25;
 };
 "@MMK_L_Uhorn" = {
 "@MMK_R_H" = 80;
@@ -104592,6 +104592,7 @@ question = 60;
 "@MMK_R_i" = -10;
 "@MMK_R_n" = -15;
 "@MMK_R_o" = -40;
+"@MMK_R_period" = -60;
 "@MMK_R_quoteright" = 20;
 "@MMK_R_s" = -35;
 "@MMK_R_u" = -10;
@@ -104600,7 +104601,6 @@ question = 60;
 ae.sc = -80;
 comma = -70;
 hyphen = -30;
-"@MMK_R_period" = -60;
 };
 "@MMK_L_W" = {
 "@MMK_R_A" = -40;
@@ -104614,13 +104614,13 @@ hyphen = -30;
 "@MMK_R_g" = -40;
 "@MMK_R_n" = -15;
 "@MMK_R_o" = -40;
+"@MMK_R_period" = -60;
 "@MMK_R_quoteright" = 20;
 "@MMK_R_s" = -30;
 "@MMK_R_u" = -10;
 ae.sc = -75;
 comma = -70;
 hyphen = -30;
-"@MMK_R_period" = -60;
 };
 "@MMK_L_X" = {
 "@MMK_R_A" = -15;
@@ -104653,6 +104653,7 @@ hyphen = -20;
 "@MMK_R_i" = -20;
 "@MMK_R_n" = -25;
 "@MMK_R_o" = -55;
+"@MMK_R_period" = -105;
 "@MMK_R_s" = -55;
 "@MMK_R_t" = -20;
 "@MMK_R_u" = -25;
@@ -104663,7 +104664,6 @@ hyphen = -20;
 ae.sc = -110;
 comma = -90;
 hyphen = -40;
-"@MMK_R_period" = -105;
 };
 "@MMK_L_Z" = {
 "@MMK_R_A" = -10;
@@ -104677,8 +104677,8 @@ hyphen = -40;
 hyphen = -15;
 };
 "@MMK_L_bracketleft" = {
-"@MMK_R_i" = 10;
 "@MMK_R_f" = -20;
+"@MMK_R_i" = 10;
 };
 "@MMK_L_c" = {
 "@MMK_R_a" = -15;
@@ -104715,6 +104715,7 @@ hyphen = -15;
 };
 "@MMK_L_f" = {
 "@MMK_R_a" = -10;
+"@MMK_R_bracketright" = -5;
 "@MMK_R_f" = -5;
 "@MMK_R_o" = -15;
 "@MMK_R_period" = -75;
@@ -104731,20 +104732,19 @@ seven = 30;
 slash = -30;
 three = 20;
 two = 20;
-"@MMK_R_bracketright" = -5;
 };
 "@MMK_L_g" = {
 "@MMK_R_a" = -20;
 "@MMK_R_bracketright" = 20;
 "@MMK_R_g" = -25;
 "@MMK_R_i" = 20;
+"@MMK_R_l" = 30;
 "@MMK_R_o" = -25;
 "@MMK_R_quoteright" = 30;
 "@MMK_R_s" = -30;
 "@MMK_R_u" = -15;
 "@MMK_R_v" = -20;
 question = 20;
-"@MMK_R_l" = 30;
 };
 "@MMK_L_i" = {
 "@MMK_R_i" = 0;
@@ -104773,8 +104773,8 @@ t = 15;
 "@MMK_R_s" = -40;
 "@MMK_R_t" = 25;
 "@MMK_R_u" = -15;
-schwa = -40;
 o = -25;
+schwa = -40;
 t = 20;
 };
 "@MMK_L_n" = {
@@ -104840,6 +104840,11 @@ question = 60;
 "@MMK_L_period" = {
 "@MMK_R_J" = 20;
 "@MMK_R_O" = -35;
+"@MMK_R_T" = -100;
+"@MMK_R_U" = -10;
+"@MMK_R_V" = -75;
+"@MMK_R_W" = -75;
+"@MMK_R_Y" = -75;
 "@MMK_R_f" = -40;
 "@MMK_R_o" = -35;
 "@MMK_R_period" = -15;
@@ -104849,11 +104854,6 @@ question = 60;
 asterisk = -30;
 degree = -30;
 ordmasculine = -30;
-"@MMK_R_T" = -100;
-"@MMK_R_V" = -75;
-"@MMK_R_W" = -75;
-"@MMK_R_Y" = -75;
-"@MMK_R_U" = -10;
 };
 "@MMK_L_quoteleft" = {
 "@MMK_R_A" = -40;
@@ -104933,8 +104933,8 @@ slash = -30;
 "@MMK_R_quoteleft" = -10;
 "@MMK_R_u" = -10;
 "@MMK_R_v" = -15;
-seven = 10;
 k = 35;
+seven = 10;
 };
 "@MMK_L_uhorn" = {
 "@MMK_R_H" = 50;
