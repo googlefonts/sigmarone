@@ -64,7 +64,7 @@ date = "2018-01-04 12:23:28 +0000";
 designer = "Vernon Adams";
 designerURL = "http://www.sansoxygen.com";
 disablesNiceNames = 1;
-familyName = Sigmar;
+familyName = "Sigmar One";
 featurePrefixes = (
 {
 automatic = 1;
